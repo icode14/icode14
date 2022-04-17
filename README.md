@@ -21,9 +21,7 @@ You can click the Preview link to take a look at your changes.
 ![Terraform](https://img.shields.io/badge/Terraform-05122A?style=flat&logo=terraform)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-### My Statistics
+### ⚙️ Statistics
 
 <br/>
 <p align="left">
