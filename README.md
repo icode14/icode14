@@ -36,5 +36,5 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <a href="https://www.linkedin.com/in/franklin-wae-luther"><img src="https://img.shields.io/badge/-Franklin%20Wae%20Luther-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/phoenixwaeluther"><img src="https://img.shields.io/badge/-@phoenixwaeluther-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://img.shields.io/badge/-@prod_luther-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/prod_luther"><img src="https://img.shields.io/badge/-@prod_luther-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
