@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luther W. Franklin</h1>
 <h4 align="center"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></h4>
-
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 - 👋 Hi, I’m @icode14
 - 👀 I’m interested in ...
