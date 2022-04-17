@@ -21,9 +21,7 @@ You can click the Preview link to take a look at your changes.
 ![Terraform](https://img.shields.io/badge/Terraform-05122A?style=flat&logo=terraform)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-### ⚙️ Statistics
-
-<br/>
+### ⚙️ &nbsp;Statistics
 <p align="left">
   <a href="https://github.com/icode14">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=icode14&show_icons=true&theme=gruvbox&hide_border=true" />
